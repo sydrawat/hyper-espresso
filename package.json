@@ -1,0 +1,25 @@
+{
+  "name": "hyper-espresso",
+  "version": "1.0.0",
+  "description": "Espresso theme for Hyper Terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sydrawat/hyper-espresso.git"
+  },
+  "keywords": [
+    "espresso",
+    "hyper",
+    "hyperterm",
+    "theme"
+  ],
+  "author": "Siddharth Rawat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sydrawat/hyper-espresso/issues"
+  },
+  "homepage": "https://github.com/sydrawat/hyper-espresso#readme"
+}
