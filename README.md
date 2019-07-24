@@ -1,9 +1,8 @@
 # hyper-espresso
 
-
  The hyper-espresso is a cool new theme for `Hyper`.
 
- ![]()
+ ![hyper-espresso](assets/hyper-espresso.png)
 
  [![version][version-badge]][package]
 [![downloads][downloads-badge]][npmtrends]
