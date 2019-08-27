@@ -3,8 +3,10 @@
  The hyper-espresso is a cool new theme for `Hyper`.
 
  ![hyper-espresso](assets/hyper-espresso.png)
+ 
+ ![image](https://user-images.githubusercontent.com/22128987/63790566-0f3b7200-c8e9-11e9-8c8d-26403e38c739.png)
 
- [![version][version-badge]][package]
+[![version][version-badge]][package]
 [![downloads][downloads-badge]][npmtrends]
 [![MIT License][license-badge]][license]
 [![PRs Welcome][prs-badge]][prs]
